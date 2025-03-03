@@ -48,8 +48,9 @@ User Story:
 
 ## Success Metrics
 
--success  functionality of the code/project
+- success  functionality of the code/project
 
 ## Timeline
 
--
+- This is the total time the project will take to complete and succesfully deliver to the client
+- In this section the timeline will be devided in the different section.  

@@ -8,4 +8,4 @@ Later on we will create the real project requirements document for the real worl
 Prd helps to understand the project and its requirements.
 It is one of the first step to deliver the successful project.
 
-### Thank You ..
+### Thank You...
